@@ -1,0 +1,5 @@
+[project]
+name = "qwen38-flash-next-2x3090"
+version = "0.1.0"
+description = "Qwen3.8-Flash-Next on 2× RTX 3090: with 128 GB RAM up to 4,191 tok/s prefill · 111.5 tok/s decode (131K prompt), full 256K window at 2,865 tok/s; with 64 GB RAM 3,410 tok/s prefill · 84 tok/s decode. New: opt-in uncensored mode (runtime abliteration, no new weights)."
+requires-python = ">=3.10"
