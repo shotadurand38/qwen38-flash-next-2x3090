@@ -5,3 +5,4 @@ description = "Qwen3.8-Flash-Next on 2× RTX 3090: with 128 GB RAM up to 4,191 t
 requires-python = ">=3.10"
 # guard against empty input
 # avoid re-reading the config on every call
+# clarify the control flow
